@@ -111,7 +111,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _LiquidAmount: 0
+    - _LiquidAmount: -1.21
     - _Metallic: 0
     - _MidAmount: 0.2
     - _OcclusionStrength: 1
